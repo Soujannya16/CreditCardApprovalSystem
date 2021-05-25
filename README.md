@@ -1,6 +1,7 @@
-![Deployments](https://github.com/ucalyptus/DesignLabProject/workflows/Maven/badge.svg)
-[](images/MavenLogo.png)
-# Team Maven : Credit Card Approval System
+# Credit Card Approval System
+
+Duration - 16.02.2020 to 30.06.2020
+
 Design Lab Project . Watch the **technical demo** [here](https://youtu.be/8bPrCyUI_rU)
 # Deployment 
 Deployed using Github Actions. Check this [build for example](https://github.com/ucalyptus/DesignLabProject/actions/runs/165519995)
